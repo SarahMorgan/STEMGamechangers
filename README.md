@@ -1,5 +1,5 @@
 # STEMGamechangers
-Everything you need to run your own STEM Gamechangers event! :smiley:
+Everything you need to run your own STEM Gamechangers event! :smiley: :thumbsup: :sparkles:
 
 This repo is a work in progress at the moment, but if you are interested in running your own STEM Gamechangers, please get in contact with one of the STEMGamechangers organisers.
 
@@ -55,7 +55,7 @@ This repo is a work in progress at the moment, but if you are interested in runn
 + Welcome any potential funders when they arrive for the final pitches.
 + Collate the teams’ slides together for the final pitches.
 + Thank everyone for coming at the end.
-+ Relax and eat cake! You did it!!
++ Relax and eat cake! :cake: You did it!!
 
 ## After the event:
 + Email all participants (including pitch attendees) with an evaluation form. Ours can be found at: ‘’.
