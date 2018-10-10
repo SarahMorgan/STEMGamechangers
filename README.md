@@ -50,7 +50,7 @@ This repo is a work in progress at the moment, but if you are interested in runn
 + Welcome any speakers, make sure you have their slides ready and they have mics etc.
 + Make sure the catering runs smoothly.
 + Tweet!
-+ Make sure everyone is included (the facilitators should help with that) and respond to attendees’ questions (via Slack as well as in person). Make sure participants know what’s expected of them, especially in terms of the final presentations- how long do they have? + + What will a good pitch include? Look out for anyone breaching the code of conduct.
++ Make sure everyone is included (the facilitators should help with that) and respond to attendees’ questions (via Slack as well as in person). Make sure participants know what’s expected of them, especially in terms of the final presentations- how long do they have? And what will a good pitch include? Look out for anyone breaching the code of conduct.
 + Have a few copies of the agenda available and make sure everything runs to time. Timing is likely to be tight!
 + Welcome any potential funders when they arrive for the final pitches.
 + Collate the teams’ slides together for the final pitches.
