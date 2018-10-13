@@ -57,7 +57,10 @@ This repo is a work in progress at the moment, but if you are interested in runn
 + Welcome any potential funders when they arrive for the final pitches.
 + Collate the teams’ slides together for the final pitches.
 + Thank everyone for coming at the end.
-+ Relax and eat cake! :cake: You did it!!
++ Relax and eat cake! :cake: :sparkles: You did it!!
 
 ## After the event:
-+ Email all participants (including pitch attendees) with an evaluation form. Ours can be found at: ‘’.
++ Publicise any blogs, videos, podcast or other outputs from the event on your website and on social media :mega:
++ Make sure you have someone who is happy to act as a point of contact from each project team
++ Follow up with all individuals (participants and pitch attendees) by sending them an event evaluation form. We did this the day after the event, and also plan to follow up again after 2 months and after 6 months. Our evaluation form is [here](https://docs.google.com/forms/d/1IE1Jk8W6eWKXQzde4KVxnMAoK3ElI4X_hJ2Unu6zbkU/edit?usp=drive_web).
++ Follow up with all project teams (via their points of contact) about how their projects are evolving. We plan to do this 2 months after the event and again 6 months after the event.
